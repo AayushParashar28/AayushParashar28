@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Aayush Parashar</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://oistbpl.com/oct-bhopal/"> <b>Oriental College of Technology Bhopal </b>, India</a>.
+    This is me <b>Aayush Parashar</b>,  <b>Computer Science</b> undergraduate from <a href="https://oistbpl.com/oct-bhopal/"> <b>Oriental College of Technology Bhopal </b>, India</a>.
     An aspiring <b>MERN Developer,</b>&nbsp;
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
