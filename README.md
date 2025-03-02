@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     This is me <b>Aayush Parashar</b>,  <b>Computer Science</b> undergraduate from <a href="https://oistbpl.com/oct-bhopal/"> <b>Oriental College of Technology Bhopal </b>, India</a>.
-    An aspiring <b>MERN Developer,</b>&nbsp;
+    An aspiring <b>Backend Developer,</b>&nbsp;
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
@@ -14,7 +14,7 @@
 <h3>About Myself 🧑</h3>
 
 - 🧞 I've been a Tech Enthusiast since childhood.
-- ❤️ I'm a self-taught passionate full-stack developer from 🇮🇳
+- ❤️ I'm a self-taught passionate Backend developer from 🇮🇳
 - 👀 Interested in building a scalable product.
 - 🌱 I’m looking to collaborate on backend frameworks.
 - ⚡ Fun fact: I love Sports, especially Cricket.
