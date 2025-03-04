@@ -11,7 +11,7 @@
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
-<h3>About Myself 🧑</h3>
+<h3>About Me 🧑</h3>
 
 - 🧞 I've been a Tech Enthusiast since childhood.
 - ❤️ I'm a self-taught passionate Backend developer from 🇮🇳
